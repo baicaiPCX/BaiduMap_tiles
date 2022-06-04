@@ -29,3 +29,6 @@ Then, run `$ python merge_tiles.py` and get `map_s.jpg` for satellite or `map_r.
 
 Note: merging the tiles requires [Python Image Library](http://www.pythonware.com/products/pil/).
 
+### reference
+https://github.com/yinger650/BaiduMap_tiles
+
